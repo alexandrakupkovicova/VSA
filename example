@@ -1,6 +1,6 @@
 int main()
 {
-
+int j;
 printf ("example");
 
 return 0;
